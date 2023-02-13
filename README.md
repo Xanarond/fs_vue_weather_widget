@@ -1,4 +1,6 @@
-# widget-remake
+# fs_vue_weather_widget
+Тестовое приложение прогноза погоды построенное на Feature Sliced Architecture
+
 
 ## Project setup
 ```
